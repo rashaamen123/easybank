@@ -1,0 +1,180 @@
+*{
+    padding: 5px;
+    margin: 5px;
+    border: none;
+}
+@font-face {
+    font-family: KumbhSans-Bold;
+    src: url(../webfonts/KumbhSans-Bold.ttf);
+}
+@font-face {
+    font-family:KumbhSans-Regular ;
+    src: url(../webfonts/KumbhSans-Regular.ttf);
+}
+.continer{
+    padding:10px;
+}
+.main-head{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.logo{
+    padding: 5px;
+}
+.home{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-family:KumbhSans-Regular;
+    font-size:14 ;
+    color: #9597A5;
+}
+.btn-nav{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    font-family: KumbhSans-Bold;
+    font-size: 21px;
+    color: #FFFFFF;
+    background-color: #2D314D;
+}
+.all-title{
+   width: 38%;
+   margin-top:9%;
+}
+.head-title{
+    font-family:KumbhSans-Bold ;
+    font-size:47px;
+    color: #2D314D;
+}
+.par-title{
+    font-size: 18px;
+    font-family: KumbhSans-Regular;
+    color: #2D314D;
+    word-spacing: 7px;
+}
+.btu-title{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    font-family: KumbhSans-Bold;
+    font-size: 21px;
+    color: #FFFFFF;
+    background-color: #2D314D;
+}
+.img-right{
+    margin-left: 90%;
+    margin-top: -74%;
+}
+.bottom-text{
+    width:100%;
+    margin-top: -15px;
+   background-color: #F4F5F7;
+}
+.right-title{
+    width: 49%;
+    font-family: KumbhSans-Bold;
+    font-size: 35px;
+    color: #2D314D;
+}
+.right-par{
+    font-size: 15px;
+    font-family: KumbhSans-Regular;
+    color: #2D314D;
+    word-spacing: 6px;
+    width: 33%;
+    margin-left: 90px;
+}
+.all-box{
+    display: flex;
+    justify-content:space-between;
+}
+.online{
+    width: 20%;
+    padding-top: 49px;
+    margin-left: 5px;
+}
+.icon{
+    font-size: 50px;
+  justify-content: left;
+}
+.banking{
+    font-family:KumbhSans-Bold ;
+    font-size:30px;
+    color: #2D314D; 
+}
+.mobile{
+    font-size: 19px;
+    font-family: KumbhSans-Regular;
+    color: #2D314D;
+}
+.simple{
+    width: 22%;
+    padding-top: 49px;
+    margin-left: 5px; 
+}
+.budgeting{
+    font-family:KumbhSans-Bold ;
+    font-size:30px;
+    color: #2D314D; 
+}
+.money{
+    font-size: 19px;
+    font-family: KumbhSans-Regular;
+    color: #2D314D;
+}
+.fast{
+    width: 21%;
+    padding-top: 49px;
+    margin-left: 5px;
+}
+.icon{
+    font-size: 50px;
+  justify-content: left;
+}
+.onboard{
+    font-family:KumbhSans-Bold ;
+    font-size:30px;
+    color: #2D314D; 
+}
+.open{
+    font-size: 19px;
+    font-family: KumbhSans-Regular;
+    color: #2D314D;
+}
+.apt{
+    width: 17%;
+    padding-top: 49px;
+    margin-left: 5px;
+}
+.open-Api{
+    font-family:KumbhSans-Bold ;
+    font-size:30px;
+    color: #2D314D; 
+}
+.manger{
+    font-size: 19px;
+    font-family: KumbhSans-Regular;
+    color: #2D314D;
+}
+
+.latest{
+    font-family: KumbhSans-Bold;
+    font-size: 34px;
+    color: #2D314D;
+    margin-left: 4%;
+    margin-top: 20px;
+}
+.box-picture{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -1%;
+}
+.picture{
+    padding: 50px 50px;
+    width: 24%;
+}
